@@ -1,0 +1,16 @@
+$defcolor: #2d2d2d;
+$plainwhite: #ffff;
+
+.navBar {
+    background-color: $defcolor;
+    font-family: sans-serif;
+    color: $plainwhite;
+}
+
+.center {
+    margin-left: 26%;
+}
+
+.righty {
+    float: right;
+}
