@@ -14,3 +14,38 @@ $plainwhite: #ffff;
 .righty {
     float: right;
 }
+
+.cardtalog {
+    width: 18rem !important;
+    height: 25rem !important;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.cardtalogImg {
+    padding-top: 10px;
+    width:fit-content;
+    height: fit-content;
+}
+
+.cardtalogDesc {
+    align-items: center;
+    text-align: center;
+}
+
+.searchBar {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    align-items: center;
+}
+
+.searchBox {
+    position: relative;
+    width: 20%;
+    height: 3em;
+    border-radius: 8px;   
+}
+
+.submitBtn {
+    
+}
